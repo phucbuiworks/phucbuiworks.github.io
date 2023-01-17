@@ -1,20 +1,10 @@
-# Top Menu
-topmenu:
 
-- title: Home
-  url: ""
-
-- title: About
-  url: "about/"
-
-- title: Contact
-  url: "contact/"
 
 # Footer Menu
 footermenu:
 
-- title: Home
-  url: ""
+- title: About
+  url: "about/"
 
 - title: Privacy Policy
   url: "privacy-policy/"

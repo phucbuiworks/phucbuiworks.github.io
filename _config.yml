@@ -1,4 +1,4 @@
-title: "Affiliates"
+title: "phucbuiworks"
 email: phucbuiworks@gmail.com
 timezone: UTC
 baseurl: ""
@@ -24,6 +24,14 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
+  phucbuiworks:
+    name: phucbuiworks
+    display_name: phucbuiworks
+    avatar: 'assets/images/phucbuiworks.png'
+    email: phucbuiworks@gmail.com
+    web: https://github.com/phucbuiworks/
+    twitter: https://twitter.com/
+    description: "ngbthg` "
   sal:
     name: Sal
     display_name: Sal
