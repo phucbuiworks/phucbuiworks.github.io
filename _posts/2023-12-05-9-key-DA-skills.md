@@ -3,7 +3,7 @@ layout: post
 title:  "9 Key Data Analyst Skills: A Comprehensive Guide"
 author: phucbuiworks
 categories: [ DA ]
-image: assets/images/9-key-DA-skills.jpg
+image: assets/images/9-key-DA-skills(Medium).jpg
 ---
 Data analysts and data scientists are in high demand. According to the U.S. Bureau of Labor Statistics, employment in data science and analytics is projected to grow by 31% from 2019 to 2029, much faster than the average for all occupations. This statistic is hardly surprising. Data has become more essential than ever, and those who can work with data to extract meaningful insights are highly valued.
 
